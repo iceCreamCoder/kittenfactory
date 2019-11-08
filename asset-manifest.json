@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kittenfactory/static/css/main.c0515f36.chunk.css",
+    "main.js": "/kittenfactory/static/js/main.7d611a24.chunk.js",
+    "main.js.map": "/kittenfactory/static/js/main.7d611a24.chunk.js.map",
+    "runtime-main.js": "/kittenfactory/static/js/runtime-main.66184e70.js",
+    "runtime-main.js.map": "/kittenfactory/static/js/runtime-main.66184e70.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/kittenfactory/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.0dc0b19e.chunk.js": "/kittenfactory/static/js/2.0dc0b19e.chunk.js",
+    "static/js/2.0dc0b19e.chunk.js.map": "/kittenfactory/static/js/2.0dc0b19e.chunk.js.map",
+    "index.html": "/kittenfactory/index.html",
+    "precache-manifest.5429dc0119185aa66b5b5bf84c6dc403.js": "/kittenfactory/precache-manifest.5429dc0119185aa66b5b5bf84c6dc403.js",
+    "service-worker.js": "/kittenfactory/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/kittenfactory/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.c0515f36.chunk.css.map": "/kittenfactory/static/css/main.c0515f36.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66184e70.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.0dc0b19e.chunk.js",
+    "static/css/main.c0515f36.chunk.css",
+    "static/js/main.7d611a24.chunk.js"
+  ]
+}
